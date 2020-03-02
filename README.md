@@ -20,3 +20,5 @@ In week one I was introduced to the basics of language C. Following are the prob
 
 ### hello.c
 A program that prompts the use to input their name, and prints a greeting adressed to the user.
+
+...
