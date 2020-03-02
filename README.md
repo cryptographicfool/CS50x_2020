@@ -1,4 +1,4 @@
-# Backup of Harvard cs50x 2019 Problem Sets.
+# Backup of Harvard cs50x 2020 Problem Sets.
 
 I will be updating these as and when I go through the problem sets. The repository is a work in progress. (Lecture and notes files are included in each folder for the specific week.)
 
