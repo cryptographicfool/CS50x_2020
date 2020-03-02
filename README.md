@@ -24,4 +24,7 @@ A program that prompts the use to input their name, and prints a greeting adress
 ### mario_less.c
 A program that recreates half-pyramid from mario game using hashes (#) instead of blocks.
 
+### mario_more.c
+A program that creates double half-pyramid from mario game using hashes (#) instead of blocks.
+
 ...
