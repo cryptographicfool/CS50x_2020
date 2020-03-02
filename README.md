@@ -21,4 +21,7 @@ In week one I was introduced to the basics of language C. Following are the prob
 ### hello.c
 A program that prompts the use to input their name, and prints a greeting adressed to the user.
 
+### mario_less.c
+A program that recreates half-pyramid from mario game using hashes (#) instead of blocks.
+
 ...
