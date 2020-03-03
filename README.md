@@ -27,4 +27,7 @@ A program that recreates half-pyramid from mario game using hashes (#) instead o
 ### mario_more.c
 A program that creates double half-pyramid from mario game using hashes (#) instead of blocks.
 
+### cash.c
+A program to count minimum number of coins needed to give user the required change using greedy algorithm.
+
 ...
