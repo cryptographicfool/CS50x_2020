@@ -33,4 +33,4 @@ A program to count minimum number of coins needed to give user the required chan
 ### credit.c
 A program to check if a credit card number is valid, and whether it is a MasterCard, VISA or an AmEx card.
 
-...
+---
