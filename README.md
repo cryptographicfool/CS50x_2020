@@ -40,3 +40,6 @@ In week two I was introduced to arrays, strings and functions in C. I also learn
 
 ### readability.c
 A program that computes the approximate grade level needed to comprehend some text, based on Coleman-Liau index. 
+
+### caesar.c
+A program that converts plaintext input to ciphertext using a key provided by the user. This program is based on Caesar Cipher and takes numerical key.
