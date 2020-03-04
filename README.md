@@ -34,3 +34,9 @@ A program to count minimum number of coins needed to give user the required chan
 A program to check if a credit card number is valid, and whether it is a MasterCard, VISA or an AmEx card.
 
 ---
+
+## week_2 - pset2
+In week two I was introduced to arrays, strings and functions in C. I also learned about debugging and how compilers work. Following are the problems that I worked on.
+
+### readability.c
+A program that computes the approximate grade level needed to comprehend some text, based on Coleman-Liau index. 
